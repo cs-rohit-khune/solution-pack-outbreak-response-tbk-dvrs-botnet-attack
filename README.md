@@ -9,7 +9,7 @@
 
 Threat Actors are actively exploiting CVE-2024-3721, a command injection vulnerability in TBK DVR devices (Digital Video Recorders). This flaw allows unauthenticated remote code execution (RCE) via crafted HTTP requests to the endpoint. The compromised devices are conscripted into a botnet capable of conducting DDoS attacks. 
 
- The **Outbreak Response - TBK DVRs Botnet Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.0.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
+ The **Outbreak Response - TBK DVRs Botnet Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.1.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
 
  The [FortiGuard Outbreak Page](https://www.fortiguard.com/outbreak-alert/tbk-dvrs-botnet-attack) contains information about the outbreak alert **Outbreak Response - TBK DVRs Botnet Attack**. 
 
